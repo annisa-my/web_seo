@@ -16,13 +16,14 @@ export const IndexPageTemplate = ({
   subheading,
   mainpitch,
   description,
+  subdescription,
   intro,
 }) => {
   const heroImage = getImage(image) || image;
 
   return (
     <div>
-      <FullWidthImage img={heroImage} title={title} subheading={subheading} />
+      <FullWidthImage img={heroImage}  />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -34,7 +35,7 @@ export const IndexPageTemplate = ({
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
+                      <p>{mainpitch.description}</p>
                     </div>
                   </div>
                   <div className="columns">
@@ -43,6 +44,7 @@ export const IndexPageTemplate = ({
                         {heading}
                       </h3>
                       <p>{description}</p>
+                      <p>{subdescription}</p>
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />
@@ -81,6 +83,7 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
+  subdescription: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -98,6 +101,7 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
+        subdescription={frontmatter.subdescription}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -131,6 +135,7 @@ export const pageQuery = graphql`
           description
         }
         description
+        subdescription
         intro {
           blurbs {
             image {
