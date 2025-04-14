@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Gurihlicious
-image: /img/gambar pisang1.jpg
+image: /img/logo keripik pisang.png
 heading: Surga makanan gurih 
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:

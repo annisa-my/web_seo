@@ -1,65 +1,46 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Gurihliciuos
+image: /img/logo keripik tempe.png
+heading: Gurihlicious
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Gurihlicious adalah tempat terbaik bagi para pecinta camilan yang ingin tahu asal-usul bahan berkualitas dan turut mendukung para produsen lokal. Kami serius dalam setiap proses pembuatan, mulai dari pemilihan bahan, pengolahan hingga pengemasan, demi menghadirkan cita rasa gurih yang tak terlupakan. Kami senang berbagi semangat dan kecintaan kami terhadap camilan kepada siapa pun.
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/keripikpisang1.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Gurihlicious menghadirkan keripik pisang pilihan yang diolah secara higienis dan modern, menghasilkan camilan renyah dengan cita rasa khas Indonesia. Dibuat dari pisang berkualitas tinggi yang diiris tipis dan digoreng sempurna, cocok untuk kamu yang suka ngemil tapi tetap peduli kualitas!
+    - image: /img/keripiksingkong.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Camilan klasik rasa kekinian! Keripik Singkong Gurihlicious dibuat dari singkong pilihan yang diiris tipis dan digoreng sampai garing, menghasilkan tekstur super renyah dan rasa gurih yang bikin nagih.Diproses tanpa bahan pengawet, dijamin aman dan lezat untuk semua kalangan. Cocok buat ngemil santai, teman kerja, atau jadi stok camilan keluarga di rumah.
+    - image: /img/keripikkentang1.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Rasakan kerenyahan tiada tara dari Keripik Kentang Gurihlicious, camilan modern dengan kualitas rasa dan tekstur yang luar biasa! Terbuat dari irisan kentang asli yang digoreng hingga keemasan, setiap gigitan memberikan sensasi kriuk yang bikin susah berhenti.
+    - image: /img/keripiktempe4.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Tempe bukan cuma lauk – sekarang jadi camilan super renyah dan nikmat!Keripik Tempe Gurihlicious dibuat dari tempe pilihan yang dipotong tipis dan digoreng garing, menghasilkan tekstur crispy dengan cita rasa khas Indonesia yang tak tergantikan. Dengan bumbu rempah yang meresap dan proses produksi higienis, camilan ini cocok untuk semua kalangan – dari anak muda sampai orang tua pun pasti suka!
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Camilan Gurih Tanpa Kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami menjaga kualitas camilan kami dengan standar tertinggi, mulai dari pemilihan bahan hingga ke tangan pelanggan. Itulah mengapa kami sangat teliti dan transparan dalam setiap tahap proses produksi. Kami secara langsung memastikan bahwa bahan-bahan pilihan kami berasal dari sumber yang aman, sehat, dan mendukung lingkungan serta kesejahteraan produsen lokal.
+
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/keripikpisang2.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/keripiksingkong1.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/keripikkentang3.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-

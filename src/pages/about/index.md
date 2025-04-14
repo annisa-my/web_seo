@@ -1,19 +1,20 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Kenapa Gurihlicious Berbeda
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Kualitas Alami
+Kami menggunakan bahan pilihan seperti pisang, kentang, singkong, dan tempe yang segar dan alami. Tanpa tambahan bahan pengawet buatan, karena kami percaya rasa terbaik datang dari alam.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Cita Rasa Gurih Otentik
+Setiap keripik dibuat dengan resep khas yang menghadirkan rasa gurih yang autentik dan menggoda. Kami menjaga keaslian rasa tradisional dengan sentuhan modern yang membuat setiap gigitan lebih istimewa.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+###  Proses Produksi Higienis & Bertanggung Jawab
+Kami mengutamakan kebersihan dan kualitas dalam setiap proses produksi. Dari pemilihan bahan hingga pengemasan, semua dilakukan dengan standar terbaik untuk menjaga keamanan dan kenikmatan produk kami.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Cinta Lokal, Rasa Global
+Kami bangga membawa camilan khas Indonesia ke tingkat yang lebih tinggi. Gurihlicious hadir untuk memperkenalkan kekayaan rasa lokal ke pasar yang lebih luas, sambil tetap menjunjung nilai-nilai tradisi dan kebersamaan.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Kepuasan Konsumen adalah Prioritas Kami 
+Kami terus berinovasi dan mendengarkan kebutuhan konsumen, agar setiap produk Gurihlicious selalu menjadi pilihan terbaik untuk menemani momen santai Anda. 
+
