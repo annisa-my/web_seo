@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/logo.svg";
+import logo from "../img/logo2.png";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 import twitter from "../img/social/twitter.svg";
@@ -44,7 +44,7 @@ const Footer = () => {
                         Form Examples
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <a
                         className="navbar-item"
                         href="/admin/"
@@ -52,15 +52,15 @@ const Footer = () => {
                         rel="noopener noreferrer"
                       >
                         Admin
-                      </a>
-                    </li>
+                      </a> 
+                    </li> */}
                   </ul>
                 </section>
               </div>
               <div className="column is-4">
                 <section>
                   <ul className="menu-list">
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/blog">
                         Latest Stories
                       </Link>
@@ -69,7 +69,7 @@ const Footer = () => {
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>
