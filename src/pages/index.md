@@ -11,8 +11,8 @@ mainpitch:
     Di Gurihlicious, kami percaya bahwa camilan bukan hanya teman di waktu santai, tapi juga sumber kebahagiaan yang sederhana. Oleh karena itu, setiap produk kami dibuat dengan cinta, higienis, dan dikemas praktis untuk menemani aktivitasmu kapan saja, di mana saja.
 description: >-
     Gurihlicious adalah cemilan serba ada dari yang gurih, manis bahkan ada yang pedas pokoknya makanan ringan menggugah selera semua orang
-subdescription: 
-    Gurihlicious adalah cemilan serba ada dari yang gurih, manis bahkan ada yang pedas pokoknya makanan ringan menggugah selera semua orang
+subdescription: >-
+    
 intro:
   blurbs:
     - image: /img/pisang lumer.jpg
