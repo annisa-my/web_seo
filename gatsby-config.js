@@ -5,8 +5,8 @@ module.exports = {
       "Gurihlicious adalah sebuah konsep rasa yang menggabungkan kelezatan gurih dengan sentuhan nikmat yang membuat ketagihan.",
       author: "Annisa Yulianti",
       keywords: "Gurihlicious, cemilan enak, makanan gurih, snack Indonesia, keripik, makanan ringan, kuliner unik, jajanan kekinian, murah dan lezat, beli cemilan online, makanan gurih Indonesia",
-      URL:<a href="https://gurihliciusonline.icu/blog">Baca artikel di Blog Gurihlicious</a>,
-  plugins: [
+      URL: "https://gurihliciusonline.icu/blog",
+      plugins: [
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-sass",
