@@ -1,21 +1,21 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: Baru datang nih! Stok terbatas cemilan spesial Jamaican Blue Mountain, siap tersedia minggu depan!
+date: 2025-06-16T15:04:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+ Kami bangga mengumumkan bahwa minggu depan Gurihlicious akan menghadirkan stok terbatas biji kopi spesial Jamaica Blue Mountain di toko kami!
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Rasa
+  - mencicipi
+  - rasa unik gurihlicious
+  - Gurihlicious Experience
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Kami nantikan kedatangan stok terbatas keripik spesial Gurihlicious minggu depan (Senin). Setelah digoreng dan siap, keripik renyah ini tersedia mulai Selasa. Tapi jangan terlambat ya, jumlahnya terbatas, jadi segera serbu sebelum kehabisan! 🌟
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Blue Mountain Peak — puncak tertinggi di Jamaika, dan juga tempat lahirnya inspirasi keripik Gurihlicious. Pegunungan ini terletak di perbatasan Portland dan Saint Thomas, Jamaika, dan menjadi surga bagi citarasa unik yang kami olah menjadi keripik lezat. 🌲🥔
+
 
 ## A little history
 

@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: "Gurihlicious",
-    description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
-  },
+    description:  
+      "Gurihlicious adalah sebuah konsep rasa yang menggabungkan kelezatan gurih dengan sentuhan nikmat yang membuat ketagihan.",
+      author: "Annisa Yulianti",
+      keywords: "Gurihlicious, cemilan enak, makanan gurih, snack Indonesia, keripik, makanan ringan, kuliner unik, jajanan kekinian, murah dan lezat, beli cemilan online, makanan gurih Indonesia",
+      URL:"https://gurihliciusonline.icu/",
   plugins: [
     "gatsby-plugin-react-helmet",
     {

@@ -8,8 +8,11 @@ description: Menikmati camilan ala Gurihlicious mungkin awalnya terlihat merepot
 
 
 tags:
-  - brewing
-  - chemex
+  - gurihlicious terdekat
+  - mencicipi 
+  - kuliner gurih 
+  - jajanan gurih 
+  - Review Gurihlicious
 ---
 ![chemex](/img/logo gurihlicious1.png)
 
