@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: "Gurihlicious",
+    title: `Gurihlicious`,
     description:  
-      "Gurihlicious adalah sebuah konsep rasa yang menggabungkan kelezatan gurih dengan sentuhan nikmat yang membuat ketagihan.",
-      author: "Annisa Yulianti",
-      keywords: "Gurihlicious, cemilan enak, makanan gurih, snack Indonesia, keripik, makanan ringan, kuliner unik, jajanan kekinian, murah dan lezat, beli cemilan online, makanan gurih Indonesia",
-      URL: "https://gurihliciusonline.icu/blog",
-      plugins: [
+      `Gurihlicious adalah sebuah konsep rasa yang menggabungkan kelezatan gurih dengan sentuhan nikmat yang membuat ketagihan.`,
+    author: `Annisa Yulianti`,
+    keywords: "Gurihlicious, cemilan enak, makanan gurih, snack Indonesia, keripik, makanan ringan, kuliner unik, jajanan kekinian, murah dan lezat, beli cemilan online, makanan gurih Indonesia",
+    URL: "https://gurihliciusonline.icu",
+  },
+  plugins: [
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-sass",
@@ -49,9 +50,6 @@ module.exports = {
           {
             resolve: "gatsby-remark-images",
             options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
               maxWidth: 2048,
             },
           },
@@ -80,4 +78,4 @@ module.exports = {
     }, // must be after other CSS plugins
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
-}
+};

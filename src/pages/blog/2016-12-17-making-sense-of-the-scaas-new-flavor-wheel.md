@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path : /blog 
 title: Memahami Roda Cita Rasa Baru Gurihlicious
 date: 2025-06-16T15:04:10.000Z
 featuredpost: false
@@ -11,6 +12,9 @@ tags:
   - gurihlicious terdekat 
   - kuliner gurih 
   - Review Gurihlicious 
+  - cerita dibalik kriuk
+  - Gurihlicious Journey
+  - Ngemil pakai hati
 ---
 ![flavor wheel](/img/kartun image.png)
 

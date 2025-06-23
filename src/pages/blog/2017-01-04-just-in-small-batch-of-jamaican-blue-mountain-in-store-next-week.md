@@ -1,5 +1,6 @@
 ---
 templateKey: 'blog-post'
+path : /blog 
 title: Baru datang nih! Stok terbatas cemilan spesial Jamaican Blue Mountain, siap tersedia minggu depan!
 date: 2025-06-16T15:04:10.000Z
 featuredpost: true
@@ -10,6 +11,9 @@ tags:
   - mencicipi
   - rasa unik gurihlicious
   - Gurihlicious Experience
+  - cerita dibalik kriuk
+  - Gurihlicious Journey
+  - Ngemil pakai hati
 ---
 
 Kami nantikan kedatangan stok terbatas keripik spesial Gurihlicious minggu depan (Senin). Setelah digoreng dan siap, keripik renyah ini tersedia mulai Selasa. Tapi jangan terlambat ya, jumlahnya terbatas, jadi segera serbu sebelum kehabisan! 🌟
@@ -17,18 +21,39 @@ Kami nantikan kedatangan stok terbatas keripik spesial Gurihlicious minggu depan
 Blue Mountain Peak — puncak tertinggi di Jamaika, dan juga tempat lahirnya inspirasi keripik Gurihlicious. Pegunungan ini terletak di perbatasan Portland dan Saint Thomas, Jamaika, dan menjadi surga bagi citarasa unik yang kami olah menjadi keripik lezat. 🌲🥔
 
 
-## A little history
+## A little history of our favorite snack
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Makan Keripik Gurihlicious, di Mana Aja Tetap Nikmat! 🥔✨
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Nggak perlu naik gunung atau jauh-jauh ke luar negeri buat menikmati momen istimewa. Kadang, cukup duduk di teras rumah sore-sore, angin sepoi-sepoi, lagu favorit mengalun pelan… dan tentu saja, sebungkus keripik Gurihlicious di tangan.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Keripik ini bukan keripik biasa—teksturnya renyah, bumbunya meresap sampai ke dalam, dan rasanya? Bikin susah berhenti! Mau dimakan sambil nonton film, nemenin nugas, atau sekadar ngobrol santai bareng keluarga, Gurihlicious selalu cocok jadi teman setia.
 
-## What you need to know before trying
+Di pantai? Boleh banget.
+Di taman? Tambah seru.
+Di kamar sambil rebahan? Wah, itu mah juaranya!
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Setiap gigitan keripik Gurihlicious adalah pengingat bahwa kebahagiaan itu sederhana. Bisa dari camilan enak, suasana nyaman, dan momen yang kita ciptakan sendiri.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+## Biar makin yakin sebelum gigit pertama!
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+A Little History with Gurihlicious: Dari Dapur Sederhana ke Rasa Luar Biasa 🥔✨
+
+Setiap camilan enak pasti punya cerita. Termasuk Gurihlicious. Bukan cuma soal kriuk dan bumbu, tapi juga soal proses panjang yang membentuk cita rasa khas yang kamu nikmati hari ini.
+
+Awalnya, Gurihlicious lahir dari pertanyaan sederhana:
+
+"Gimana caranya bikin keripik yang bukan cuma renyah, tapi juga punya rasa yang ngangenin?"
+
+Kami mulai dari memilih bahan terbaik — bukan sembarang singkong atau kentang, tapi yang segar dan berkualitas. Lalu, kami olah dengan teknik yang membuat setiap potongannya tetap tipis, kriuk, dan meresap bumbunya. Bukan karena ingin cepat, tapi karena kami percaya, rasa yang enak itu perlu waktu dan perhatian.
+
+Dulu, mungkin keripik hanyalah pelengkap. Tapi sekarang, keripik Gurihlicious sudah jadi bagian dari cerita harian banyak orang — nemenin saat kerja, belajar, healing, atau sekadar ngobrol bareng teman.
+
+Dari dapur kecil ke rak toko, dari satu bungkus ke ribuan, kami tetap pegang prinsip:
+✨ Rasa yang tulus.
+🔥 Tekstur yang memuaskan.
+❤️ Dan kualitas yang nggak pernah dikompromi.
+
+Karena buat kami, Gurihlicious bukan cuma soal makan keripik. Tapi tentang membawa rasa, cerita, dan kehangatan ke setiap gigitan.
+
+#CeritaDiBalikKriuk #GurihliciousJourney #NgemilPakaiHati
