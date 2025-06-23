@@ -18,7 +18,7 @@ tags:
 ---
 ![flavor wheel](/img/kartun image.png)
 
-Gurihlicious juga turut menyempurnakan Roda Rasa Gurih untuk lebih mencerminkan nuansa dan karakter gurih yang unik. Deskripsinya lebih rinci, sehingga para pencicip dapat mengenali lebih luas variasi rasa gurih yang tersedia.
+Gurihlicious juga turut menyempurnakan Roda Rasa Gurih untuk lebih mencerminkan nuansa dan karakter gurih yang unik. Deskripsinya lebih rinci, sehingga para pencicip dapat mengenali lebih luas variasi rasa gurih yang tersedia disini.
 
 Perubahan ini memang langkah besar bagi para ahli kuliner, tapi juga penting buat kamu sebagai penikmat. Yuk, kami jelaskan bagaimana Roda Rasa Gurihlicious tercipta, bagaimana para ahli menggunakan itu, dan apa makna di balik setiap sensasi gurih yang diberikannya.
 
