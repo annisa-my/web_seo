@@ -1,10 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gurihlicious`,
-    description:  
-      `Gurihlicious adalah sebuah konsep rasa yang menggabungkan kelezatan gurih dengan sentuhan nikmat yang membuat ketagihan.`,
-    author: `Annisa Yulianti`,
-    keywords: "Gurihlicious, cemilan enak, makanan gurih, snack Indonesia, keripik, makanan ringan, kuliner unik, jajanan kekinian, murah dan lezat, beli cemilan online, makanan gurih Indonesia",
+   title: `Gurihlicious`,
+  description: `Keripik pisang renyah, enak, dan gurih asli Indonesia!`,
+  author: `Annisa`,
+  keywords: `keripik pisang, snack gurih, makanan ringan, gurihlicious`,
     URL: "https://gurihliciusonline.icu",
   },
   plugins: [
