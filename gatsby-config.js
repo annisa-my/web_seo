@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-   title: `Gurihlicious`,
-  description: `Keripik pisang renyah, enak, dan gurih asli Indonesia!`,
-  author: `Annisa`,
-  keywords: `keripik pisang, snack gurih, makanan ringan, gurihlicious`,
-    URL: "https://gurihliciusonline.icu",
+   title: "Gurihlicious",
+  description: "Camilan gurih terbaik di Indonesia.",
+  author: "Gurihlicious Team",
+  keywords: "camilan, keripik, snack gurih, makanan ringan",
+      URL: "https://gurihliciusonline.icu",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
