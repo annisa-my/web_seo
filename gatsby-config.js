@@ -4,7 +4,8 @@ module.exports = {
   description: "Camilan gurih terbaik di Indonesia.",
   author: "Gurihlicious Team",
   keywords: "camilan, keripik, snack gurih, makanan ringan",
-      URL: "https://gurihliciusonline.icu",
+      siteUrl: "https://gurihliciusonline.icu",
+
   },
   plugins: [
     "gatsby-plugin-react-helmet",
